@@ -1,11 +1,13 @@
-# line-count
+# line_count
 
-Count lines of code by language.""".
-
-Zero dependencies. Python 3.8+.
+Line counter — count lines, words, chars in files and dirs
 
 ## Usage
 
 ```bash
 python3 line_count.py --help
 ```
+
+## License
+
+MIT
